@@ -13,7 +13,7 @@ Congratulations on embarking on your doctoral journey! Pursuing a PhD is an exci
 #| fig-cap: Reality check about PhD srudent life between expectation and real life
 #| out-width: 50%
 #| layout-ncol: 2
-knitr::include_graphics(c("img/111.jpeg","img/112.jpeg"))
+knitr::include_graphics(c("img/111.jpeg","img/112.png"))
 ```
 
 [LEARN MORE](https://www.google.com)
