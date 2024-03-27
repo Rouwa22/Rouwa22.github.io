@@ -1,7 +1,21 @@
 ---
-title: "website quarto"
+title: "PhD STUDENT 101"
+
 ---
 
-This is a Quarto website.
+Congratulations on embarking on your doctoral journey! Pursuing a PhD is an exciting and challenging endeavor that requires dedication, perseverance, and a wealth of resources. Whether you're just starting out or navigating the final stages of your research, PhD Students 101 is here to support you every step of the way.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![Reality check about PhD srudent life between expectation and real life](/img/111.jpeg){width=10%}
+
+```{r}
+#| fig-align: center
+#| echo: false
+#| fig-cap: Reality check about PhD srudent life between expectation and real life
+#| out-width: 50%
+#| layout-ncol: 2
+knitr::include_graphics(c("img/111.jpeg","img/112.jpeg"))
+```
+
+[LEARN MORE](https://www.google.com)
+
+

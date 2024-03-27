@@ -3,16 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "website quarto"
+  title: "PhD student 101"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - WhatWeOffer.qmd
+      - Joinus.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: zephyr
     css: styles.css
     toc: true
 
